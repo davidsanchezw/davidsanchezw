@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm starting to create a portfolio.
+
+In progress with Python and React.
+
 <!--
 **davidsanchezw/davidsanchezw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
